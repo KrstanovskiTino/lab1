@@ -1,0 +1,11 @@
+commit e817b8ab9fe08e6505c563542060d3690c13746c
+Author: Tino Krstanovski <krstanovski.tino@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:21:56 2018 +0100
+
+    modify l1.txt
+
+commit c1a281f53ce6bbcbf97743988a8ea67247706c9e
+Author: Tino Krstanovski <krstanovski.tino@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:21:09 2018 +0100
+
+    Initial commit
